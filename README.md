@@ -1,13 +1,16 @@
-# Manjaro-bootsplash-maia
+# manjaro-bootsplash-maia
 
 Kernel Bootsplash theme for manjaro Linux using Manjaro logo and a custom spinner with maia colors.
 
 This project was based on multiple other great projects like:
 
 https://github.com/Blacksuan19/Bootsplash-Themes
+
 https://github.com/GrayJack/manjaro-grayjack/tree/master/PKGBUILDs/manjaro-bootsplash-green
 
 The spinner base gif was created using Preloaders.net and heavily modified afterwards
+
+Author: Tony Chaveiro
 
 # Installation:
 
