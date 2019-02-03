@@ -1,4 +1,4 @@
-# manjaro-bootsplash-maia
+# Bootsplash-manjaro-maia
 
 Kernel Bootsplash theme for manjaro Linux using Manjaro logo and a custom spinner with maia colors.
 
