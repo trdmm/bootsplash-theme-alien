@@ -1,10 +1,12 @@
+# Maintainer: Tony Chaveiro <tchavei@gmail.com>
+
 pkgname=('bootsplash-theme-manjaro-maia')
 pkgver=1.2
 pkgrel=1
-url="https://github.com/tchavei/bootsplash-manjaro-maia"
+url="https://lists.freedesktop.org/archives/dri-devel/2017-December/160242.html"
 arch=('x86_64')
+pkgdesc=('Simple Manjaro Bootsplash with Maia Colors')
 license=('GPL')
-
 depends=()
 builddepends=('imagemagick')
 options=('!libtool' '!emptydirs')
