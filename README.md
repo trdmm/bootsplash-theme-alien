@@ -21,6 +21,6 @@ Author: Tony Chaveiro
 - run `bootsplash-manjaro-maia.sh` to generate STL model.
 - run `makepkg -s` to create Arch package and install it with `pacman -U bootsplash-theme-manjaro-maia`
 - append `bootsplash-manjaro-maia` hook in the end of HOOKS string of `/etc/mkinitcpio.conf`
-- add `bootsplash.bootfile=bootsplash-themes/manjaro-maia/bootsplash` into `GRUB_CMDLINE_LINUX` string in `/etc/default/grub`
+- add `bootsplash.bootfile=bootsplash-themes/manjaro-maia/bootsplash` into `GRUB_CMDLINE_LINUX` string in `/etc/default/grub` and don't forget to remove the `quiet` parameter!
 - run `sudo mkinitcpio -p linux420` or ( `sudo mkinitcpio -P` for all presets)
 - run `sudo update-grub`
