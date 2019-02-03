@@ -13,6 +13,8 @@ The spinner base gif was created using Preloaders.net and heavily modified after
 
 - `git clone https://github.com/tchavei/bootsplash-manjaro-maia.git`
 - `cd manjaro-bootsplash-maia`
+- run `chmod +x bootsplash-manjaro-maia`
+- run `chmod +x bootsplash-packer`
 - run `bootsplash-manjaro-maia.sh` to generate STL model.
 - run `makepkg -s` to create Arch package and install it with `pacman -U bootsplash-theme-manjaro-maia`
 - append `bootsplash-manjaro-maia` hook in the end of HOOKS string of `/etc/mkinitcpio.conf`
