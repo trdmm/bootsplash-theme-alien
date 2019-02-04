@@ -3,7 +3,7 @@
 pkgname=('bootsplash-theme-manjaro-maia')
 pkgver=1.2
 pkgrel=1
-url="https://lists.freedesktop.org/archives/dri-devel/2017-December/160242.html"
+url="https://github.com/tchavei/bootsplash-manjaro-maia"
 arch=('x86_64')
 pkgdesc="Simple Manjaro Bootsplash with Maia Colors"
 license=('GPL')
