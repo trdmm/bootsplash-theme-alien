@@ -15,8 +15,8 @@ Author: Tony Chaveiro
 # Installation:
 
 - `git clone https://github.com/tchavei/bootsplash-manjaro-maia.git`
-- `cd manjaro-bootsplash-maia`
-- run `chmod +x bootsplash-manjaro-maia`
+- `cd bootsplash-manjaro-maia`
+- run `chmod +x bootsplash-manjaro-maia.sh`
 - run `chmod +x bootsplash-packer`
 - run `bootsplash-manjaro-maia.sh` to generate STL model.
 - run `makepkg -s` to create an Arch package and install it with `pacman -U $package_name`
